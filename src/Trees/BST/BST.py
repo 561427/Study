@@ -6,7 +6,7 @@
 import unittest
 
 class Node:
-    """Node class for BST.""""
+    """Node class for BST."""
     def __init__(self, Val):
         self.Val = Val
         self.Left = None
